@@ -1,2 +1,2 @@
 # Demo
-Sampele Go programs
+Sampele Go programs.
